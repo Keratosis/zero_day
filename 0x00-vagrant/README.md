@@ -1,2 +1,1 @@
-#!/bin/bash
-it prints the kernel name of the operating system
+alx
